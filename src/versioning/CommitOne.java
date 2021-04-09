@@ -11,4 +11,9 @@ package versioning;
  */
 public class CommitOne {
     
+    public void primoMetodo(){
+        System.out.println("Prova");
+    }
+    
 }
+
