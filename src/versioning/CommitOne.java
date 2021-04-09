@@ -15,5 +15,9 @@ public class CommitOne {
         System.out.println("Prova");
     }
     
+     public void secondoMetodo(){
+        System.out.println("Ciao");
+    }
+    
 }
 
